@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.57b18d55.css",
-    "main.js": "/react-gh-pages/static/js/main.f7d05262.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.57b18d55.css.map": "/react-gh-pages/static/css/main.57b18d55.css.map",
-    "main.f7d05262.js.map": "/react-gh-pages/static/js/main.f7d05262.js.map"
+    "main.css": "/lever-calculator/static/css/main.57b18d55.css",
+    "main.js": "/lever-calculator/static/js/main.f7d05262.js",
+    "index.html": "/lever-calculator/index.html",
+    "main.57b18d55.css.map": "/lever-calculator/static/css/main.57b18d55.css.map",
+    "main.f7d05262.js.map": "/lever-calculator/static/js/main.f7d05262.js.map"
   },
   "entrypoints": [
     "static/css/main.57b18d55.css",
